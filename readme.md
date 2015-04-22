@@ -19,14 +19,15 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 
 
 ## Quick Installation
+---------------------
   $ mkdir ecommerce
   $ cd ecommerce
   $ git clone --bare https://github.com/magamlag/lam-shop.git
 
 ##Components
 
-* [ Bootstrap 3
-* [ LaravelShoppingcart
+*  Bootstrap 3
+*  LaravelShoppingcart
 
 
 ### License
