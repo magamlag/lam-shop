@@ -22,8 +22,8 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ---------------------
 
   $ mkdir ecommerce <br/>
-  $ cd ecommerce
-  $ git clone --bare https://github.com/magamlag/lam-shop.git
+  $ cd ecommerce <br/>
+  $ git clone --bare https://github.com/magamlag/lam-shop.git <br/>
 
 ##Components
 
