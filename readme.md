@@ -1,5 +1,8 @@
-## Laravel PHP Framework
+# Ecommerce Demo Site
 
+Contains everything to quick launch your ecommerce site. Based on the Laravel 4 Framework
+
+## Laravel Framework
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
 [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
@@ -12,13 +15,19 @@ Laravel aims to make the development process a pleasing one for the developer wi
 
 Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Official Documentation
-
 Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
 
-### Contributing To Laravel
 
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
+## Quick Installation
+  $ mkdir ecommerce
+  $ cd ecommerce
+  $ git clone --bare https://github.com/magamlag/lam-shop.git
+
+##Components
+
+* [ Bootstrap 3
+* [ LaravelShoppingcart
+
 
 ### License
 

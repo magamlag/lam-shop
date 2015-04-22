@@ -3,7 +3,7 @@
 class Checkout extends \Eloquent {
   protected $guarded  = [];
   public static $rules = [
-      'email' => 'required|email|unique:users|min:5',
+      'email' => 'required|email|min:5',
       'first_name' => 'required|min:5',
       'last_name' => 'required|min:5',
       'address' => 'required|min:5',

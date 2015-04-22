@@ -95,7 +95,7 @@ class StoreController extends \BaseController {
 			}
 			return Redirect::to( 'store/index' );
 		}
-		return Redirect::back()->withErrors( $v )->withErrors( $v->getMessageBag() );
+		return Redirect::to( 'store/checkout' )->withInput()->withErrors( $v )->withErrors( $v->getMessageBag() );
 	}
 
 	public function getRemoveitem( $identifier ) {

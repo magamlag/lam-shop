@@ -25,7 +25,7 @@
                   </div>
                   <div class="form-two">
                         {{ Form::text('zip', Input::old('zip'), array('placeholder' => 'Zip / Postal Code *')) }}
-                        {{ Form::text('country', Input::old('country'), array('placeholder' => 'Country')) }}
+                        {{ Form::text('country', Input::old('country'), array('placeholder' => 'Country *')) }}
                         {{ Form::text('state', Input::old('state'), array('placeholder' => 'State')) }}
                         {{ Form::text('phone', Input::old('phone'), array('placeholder' => 'Phone *')) }}
                   </div>
