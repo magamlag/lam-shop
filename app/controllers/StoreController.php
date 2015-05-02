@@ -15,7 +15,7 @@ class StoreController extends \BaseController {
 	 */
 	public function getIndex() {
 		//
-		return View::make( 'store.index' )->with( 'products', Product::take( 4 )->orderBy( 'created_at', 'DESC' )->get() );
+		return View::make( 'store.index' )->with( 'products', Product::take( 9 )->orderBy( 'created_at', 'DESC' )->get() );
 	}
 
 	public function getView( $id ) {
