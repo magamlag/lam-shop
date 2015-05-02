@@ -47,7 +47,7 @@
 									<li><a href="#"> <span class="pull-right">(32)</span>Ronhill</a></li>
 									<li><a href="#"> <span class="pull-right">(5)</span>Oddmolly</a></li>
 									<li><a href="#"> <span class="pull-right">(9)</span>Boudestijn</a></li>
-									<li><a href="#"> <span class="pull-right">(4)</span>RГ¶sch creative culture</a></li>
+									<li><a href="#"> <span class="pull-right">(4)</span>Rosch creative culture</a></li>
 								</ul>
 							</div>
 						</div><!--/brands_products-->
