@@ -25,13 +25,13 @@ return array(
 
 	'stripe' => [
 		'model'  => 'User',
-		'secret' => 'sk_live_WES8c8XdaPjdpNE1oWrKRzod',
+		'secret' => getenv('STRIPE_SECRET'),
 	],
 
 	'github' => [
-			'client_id' => 'a72fb76c00bc34caf17e',
-			'client_secret' => '7f6624631edd3906e04cf47e840ab02b6327c696',
-			'redirect' => 'http://lam-ecommerce.and/github/callback',
+			'client_id' => getenv('GITHUB_CLIENT_ID'),
+			'client_secret' => getenv('GITHUB_CLIENT_SECRET'),
+			'redirect' => getenv('CALLBACK_REDIRECT'),
 	],
 
 );

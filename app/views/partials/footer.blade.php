@@ -148,7 +148,7 @@
 		<div class="footer-bottom">
 			<div class="container">
 				<div class="row">
-					<p class="pull-left">Copyright © 2014 SHOP. DEMO</p>
+					<p class="pull-left">Copyright © 2015 SHOP. DEMO</p>
 				</div>
 			</div>
 		</div>
